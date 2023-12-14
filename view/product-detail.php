@@ -61,7 +61,7 @@
                                     <form action="index.php?act=addtocart" method="post">
                                         <input type="hidden" name="image" value="'.$img .'">
                                         <input type="hidden" name="name" value="'.$ten .'">
-                                        <input type="hidden" name="price" value="'.$giaban .'">
+                                        <input type="hidden" name="price" value="'.$giamgia .'">
                                         <input type="hidden" name="id" value="'. $id .'">
                                         <input type="hidden" name="quantity" value="1">
                                         <input type="submit" name="addtocart" class="btn btn-xanh" value="Thêm vào giỏ hàng">
